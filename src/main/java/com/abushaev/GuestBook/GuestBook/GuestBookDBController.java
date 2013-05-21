@@ -1,4 +1,4 @@
-package com.abushaev.GuestBook;
+package com.abushaev.GuestBook.GuestBook;
 
 import java.sql.*;
 import java.util.ArrayList;

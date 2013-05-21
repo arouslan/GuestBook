@@ -1,4 +1,4 @@
-package com.abushaev.GuestBook;
+package com.abushaev.GuestBook.GuestBook;
 
 import com.sun.xml.internal.bind.v2.model.core.ID;
 
