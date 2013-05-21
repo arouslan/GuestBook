@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1597051274">
+    <data-source source="LOCAL" name="Data Source" product="H2" version="1.3.170 (2012-11-30)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.3.170 (2012-11-30)" uuid="edbf7b43-c458-4850-a9fd-c024586e4e9a">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:gbdata</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>jar://C:/Program Files (x86)/H2/h2-1.3.170.jar!/</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files (x86)/H2/h2-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="local" product="H2" version="1.3.170 (2012-11-30)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.3.170 (2012-11-30)" uuid="f3515aee-e4f1-4cb7-8ad6-426333155c08">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:C:\Users\Ruslan\IdeaProjects\GuestBook\gbdata</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>jar://C:/Program Files (x86)/H2/h2-1.3.170.jar!/</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files (x86)/H2/h2-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
