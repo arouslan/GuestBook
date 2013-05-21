@@ -1,0 +1,4 @@
+05-21 13:40:24 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "POSTS" уже существует
+Table "POSTS" already exists; SQL statement:
+CREATE TABLE posts (ID INT  PRIMARY KEY AUTO_INCREMENT, date TIMESTAMP, comment VARCHAR(255)); [42101-171]
