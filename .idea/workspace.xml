@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/abushaev/GuestBook/GuestBook/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gbdata.trace.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GuestBook.iws" />
@@ -20,7 +18,7 @@
     <file path="/GuestBookDBControler.java" changelist="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" time="1369055491196" ignored="false" />
     <file path="/GuestBookDBController.java" changelist="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" time="1369112213258" ignored="false" />
     <file path="/Conf.java" changelist="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" time="1369102492212" ignored="false" />
-    <file path="/Dummy.txt" changelist="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" time="1369118640507" ignored="false" />
+    <file path="/Dummy.txt" changelist="1794b898-ecf4-4f3d-a4d6-ee8b6b3a3d79" time="1369118735563" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -495,7 +493,11 @@
       <created>1369118645928</created>
       <updated>1369118645928</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="try moving git to github">
+      <created>1369118774218</created>
+      <updated>1369118774218</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
